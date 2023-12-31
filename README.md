@@ -7,10 +7,10 @@ https://karimashour.github.io/helping/
 # tools :
 - html
 - css
+- javascript
 - bootstrap
-- bootstrap icons
 - jquery
 
 
 # features
-- squash sport landing page 
+- helping website landing page 
